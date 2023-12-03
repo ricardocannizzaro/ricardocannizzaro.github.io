@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Ricardo Cannizzaro:
+  name        : Ricardo Cannizzaro"
+  uri         : "https://ricardocannizzaro.github.io/"
+  email       : "ricardo@robots.ox.ac.uk"
+  bio         : "DPhil (PhD) student at the Cognitive Robotics Group, Oxford Robotics Institute, University of Oxford | Defence Research Scientist (Robotics Specialist) at Australia Defence Science and Technology Group."
+  avatar      : "profile.jpg"
+  twitter     : "RCannizzaro01"
+  google_plus : 
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name2 Name2:
+#   name        : "Name2 Name2"
+#   email       : "name2@name2.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"
