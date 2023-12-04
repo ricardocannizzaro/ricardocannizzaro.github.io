@@ -11,9 +11,9 @@ redirect_from:
 
 **Note: This site is currently under construction. Some sections may be incomplete.**
 
-You can find my CV here **TODO - insert CV and link**.
+You can find my CV below and available for download [here](../files/ricardo_cannizzaro_cv.pdf).
 
-<iframe id="pdfViewer" src="../files/paper1.pdf" width="100%" height="600px"></iframe>
+<iframe id="pdfViewer" src="../files/ricardo_cannizzaro_cv.pdf" width="100%" height="600px"></iframe>
 
 <!-- Education
 ======
