@@ -3,7 +3,7 @@
 """ A script to generate a sorted list of papers from a .bib BibTeX file
 
     Author: Ricardo Cannizzaro
-    
+
 """
 
 import argparse
@@ -44,9 +44,9 @@ def print_paper_list_markdown(sorted_papers):
 
         print(f"* **{title}** <br> {authors}. {conference}{journal} {year}.<br>")
         if url:
-            print(f"  [[Paper]({url})]<br>")
+            print(f"  [[Paper]({url})]")
         else:
-            print("<br>")
+            pass
         print("")
         
 
