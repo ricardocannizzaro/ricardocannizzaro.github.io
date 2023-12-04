@@ -11,7 +11,11 @@ redirect_from:
 
 **Note: This site is currently under construction. Some sections may be incomplete.**
 
-Education
+You can find my CV here **TODO - insert CV and link**.
+
+<iframe id="pdfViewer" src="files/paper1.pdf" width="100%" height="600px"></iframe>
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -58,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
