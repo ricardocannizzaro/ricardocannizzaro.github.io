@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Note: This site is currently under construction. Some sections may be incomplete.**
-
 <!-- Intro -->
-I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au) through the *DSTG PhD Study Support Programme - Full Time International* award, for doctoral research that contributes to critical scientific and strategic objectives undertaken at world leading research intsitutions. I have 8+ years of building software and hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. 
+I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au) through the *"DSTG PhD Study Support Programme - International"* award in recognition of doctoral research contributing to critical scientific and strategic objectives undertaken at world leading research intsitutions. I have 8+ years of building software and hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. 
 
 <!-- Mission Statement / Purpose -->
 I am interested in formal knowledge representation and semantic reasoning methods; probabilistic planning and decision-making methods; and situated task intelligence for the robust and assured autonomy of mobile robot systems in complex real-world applications. I am passionate about STEM education, outreach and diversity.

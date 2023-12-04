@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Note: This site is currently under construction. Some sections may be incomplete.**
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
