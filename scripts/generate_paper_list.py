@@ -42,12 +42,10 @@ def print_paper_list_markdown(sorted_papers):
         journal = paper.get('journal', '')
         url = paper.get('url', '')
 
-        print(f"* **{title}** <br> {authors}. {conference}{journal} {year}.<br>")
+        mark_down_str: str = f"* **{title}**<br>{authors}. {conference}{journal} {year}.<br>"
         if url:
-            print(f"  [[Paper]({url})]")
-        else:
-            pass
-        print("")
+            mark_down_str = mark_down_str + f"[[Paper]({url})]"
+        print(mark_down_str)
         
 
 if __name__ == "__main__":
