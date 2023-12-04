@@ -8,22 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-**This is Ricardo Cannizzaro's GitHub Pages Site. Currently under construction.**
+**Note: This site is currently under construction. Some sections may be incomplete.**
 
 <!-- Intro -->
-I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au) through the *DSTG PhD Study Support Programme - Full Time International* award, for doctoral research that contributes to critical scientific and strategic objectives undertaken at world leading research intsitutions.
+I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au) through the *DSTG PhD Study Support Programme - Full Time International* award, for doctoral research that contributes to critical scientific and strategic objectives undertaken at world leading research intsitutions. I have 8+ years of building software \& hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. 
 
 <!-- Mission Statement / Purpose -->
-TODO: Statement of Purpose
+I am interested in formal knowledge representation and semantic reasoning methods; probabilistic planning and decision-making methods; and situated task intelligence for the robust and assured autonomy of mobile robot systems in complex real-world applications. I am passionate about STEM education, outreach and diversity.
 
-Seeking PhD internship roles in causal AI/ML.
+I am seeking PhD internship roles in causal AI/ML.
 
 <!-- PhD Research -->
-TODO: Write the PhD research overview properly
-
-I am researching probabilistic generative causal models to encode robot formal knowledge representation and world uncertainty, built from domain expertise and learned from data. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments. I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
-
-<!-- 3rd year causal Bayesian ML \& robotics PhD Student @ Oxford Robotics Institute. Aerial autonomy Defence Research Scientist @ Australia Defence Science \& Technology. 8+ years of building software \& hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. Passionate about STEM education, outreach and diversity. -->
+I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments. I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
 
 <!-- Past Work -->
 Before my DPhil I was working as a Defence Research Scientist in the Aerial Autonomy group of the [Australian Defence Science and Technology Group](https://www.dst.defence.gov.au) (2017-2021), where my research focused on decentralised teams of autonomous aerial and ground robots for missions in challenging uncertain and complex environments, such as the urban terrain. My research was at the exciting intersection of AI/ML, software and hardware enginering to develop autonomous behaviours, integrate them into hardware, and experimentally validate the complete autonomous systems through flight trials in real urban environments across Australia, Singapore, Montreal, and New York City. 
@@ -47,4 +43,4 @@ I completed my Bachelor of Science (Mechanical Systems) in 2012 at the Universit
 *Research Interests: Probabilistic generative causal modelling, Bayesian causal inference, probabilistic planning under uncertainty, causal explanations, autonomy assurance, explainable AI, robot knowledge representation and reasoning.*
 
 <!-- Call to Action -->
-TODO: Write the Call to Action
+To have a chat about my research or to discuss collaborations, please reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
