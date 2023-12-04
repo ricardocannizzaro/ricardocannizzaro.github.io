@@ -8,45 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-This is Ricardo Cannizzaro's GitHub Pages Site!
+**This is Ricardo Cannizzaro's GitHub Pages Site. Currently under construction.**
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- Intro -->
+I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au) through the *DSTG PhD Study Support Programme - Full Time International* award, for doctoral research that contributes to critical scientific and strategic objectives undertaken at world leading research intsitutions.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<!-- Mission Statement / Purpose -->
+TODO: Statement of Purpose
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Seeking PhD internship roles in causal AI/ML.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<!-- PhD Research -->
+TODO: Write the PhD research overview properly
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am researching probabilistic generative causal models to encode robot formal knowledge representation and world uncertainty, built from domain expertise and learned from data. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments. I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- 3rd year causal Bayesian ML \& robotics PhD Student @ Oxford Robotics Institute. Aerial autonomy Defence Research Scientist @ Australia Defence Science \& Technology. 8+ years of building software \& hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. Passionate about STEM education, outreach and diversity. -->
 
-**Markdown generator**
+<!-- Past Work -->
+Before my DPhil I was working as a Defence Research Scientist in the Aerial Autonomy group of the [Australian Defence Science and Technology Group](https://www.dst.defence.gov.au) (2017-2021), where my research focused on decentralised teams of autonomous aerial and ground robots for missions in challenging uncertain and complex environments, such as the urban terrain. My research was at the exciting intersection of AI/ML, software and hardware enginering to develop autonomous behaviours, integrate them into hardware, and experimentally validate the complete autonomous systems through flight trials in real urban environments across Australia, Singapore, Montreal, and New York City. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+My AI/ML and robotics research at DSTG has spanned a wide range of robotics and AI/ML topics, including:
+* [Decentralised task planning in unknown environments with heterogeneous multi-robot systems](https://ieeexplore.ieee.org/abstract/document/9560822)
+* [Robotic swarming methods for scalable and adaptive drone data-ferrying](https://ieeexplore.ieee.org/document/8463151)
+* Adaptive GNSS-SLAM localisation methods for autonomous robot navigation in mixed GNSS-available environments (internal technical report)
+* Path- and motion-planning for safe, smooth, and efficient aerial robot navigation (internal technical report)
+* Command, Control, Communication, and Computers (C4) architectures for autonomous drone system integration with federated common operation picture software (internal technical report)
+* [A novel Random-Finite-Set-based SLAM algorithm for aerial robots with scanning and solid-state LIDARS](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
+* [An evaluation of LIDAR and X-band radar sensors in a particle-dense environment for resilliant drone sensing](https://www.researchgate.net/publication/348620221_Evaluation_of_LIDAR_and_X-Band_Radar_Sensors_in_a_Particle-Dense_Environment)
+* [Passive source localisation with a novel particle-filter-based bearings-only tracking algorithm](https://www.araa.asn.au/acra/acra2015/papers/pap170.pdf)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<!-- Past Study -->
+I completed my Bachelor of Engingeering (Honours) (Robotics \& Mechatronics) (First Class Honours) in 2016 at the Swinburne University of Technology in Melbourne, Australia, [School of Engineering](https://www.swinburne.edu.au/science-engineering-technology/schools-departments/engineering/index.php) (4 years + industry-based learning year at DSTG). For my honours thesis project I created an autonomous ground robot system for remote chemical detection and localisation, under the supervision of [Professor Zhenwei Cao](https://scholar.google.com/citations?user=Xgac2EoAAAAJ&hl=en) and [Dr Jennifer Palmer](https://scholar.google.com/citations?hl=en&user=R22EoSYAAAAJ). I implemented a passive chemical-emitter localisation algorithm and integreated a novel bespoke DSTG chemical detection sensor into an autonomous Clearpath Robotics [TurtleBot 2](https://clearpathrobotics.com/turtlebot-2-open-source-robot/) robot system.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+I completed my Bachelor of Science (Mechanical Systems) in 2012 at the University of Melbourne in Melbourne, Australia, [Faculty of Engineering and Information Technology](https://eng.unimelb.edu.au/) / [Faculty of Science](https://science.unimelb.edu.au/). I spent 6 months at KTH Stockholm in 2012 as a visiting student at the [Division of Robotics, Perception and Learning](https://www.kth.se/is/rpl) and [Department of Engineering Mechanics (Aerospace Engineering)](https://www.kth.se/en/tekmek).
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+<!-- Research Interests -->
+*Research Interests: Probabilistic generative causal modelling, Bayesian causal inference, probabilistic planning under uncertainty, causal explanations, autonomy assurance, explainable AI, robot knowledge representation and reasoning.*
+
+<!-- Call to Action -->
+TODO: Write the Call to Action
