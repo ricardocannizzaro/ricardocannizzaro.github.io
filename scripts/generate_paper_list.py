@@ -47,6 +47,21 @@ def print_paper_list_markdown(sorted_papers):
             mark_down_str = mark_down_str + f"[[Paper]({url})]"
         print(mark_down_str)
         
+def print_paper_list_latex_list(sorted_papers):
+    print("\\begin{itemize}")
+    for idx, paper in enumerate(sorted_papers, start=1):
+        title = paper.get('title', 'No Title')
+        year = paper.get('year', 'No Year')
+        authors = paper.get('author', 'No Authors')
+        conference = paper.get('booktitle', '')
+        journal = paper.get('journal', '')
+        url = paper.get('url', '')
+
+        latex_str = f"  \\item {title}\\\\{authors}. {conference}{journal} {year}."
+        if url:
+            latex_str += f" \\href{{{url}}}{{[Paper]}}"
+        print(latex_str)
+    print("\\end{itemize}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate a sorted list of papers from a BibTeX file.')
@@ -63,3 +78,9 @@ if __name__ == "__main__":
 
     print("\nMarkdown formatted list of papers:\n")
     print_paper_list_markdown(sorted_papers)
+    print("===============================\n")
+
+    print("\nLaTeX formatted list of papers (itemize environment):\n")
+    print_paper_list_latex_list(sorted_papers)
+    print("===============================\n")
+
