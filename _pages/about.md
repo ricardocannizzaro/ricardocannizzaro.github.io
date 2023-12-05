@@ -29,7 +29,9 @@ To have a chat about my research or to discuss collaborations, please reach out 
 <details>
   <summary style="font-weight: bold; cursor: pointer;">PhD Research</summary>
   <div id="phd-research" markdown="1">
-  I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments. I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
+  I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments.  
+  
+  I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
   </div>
 </details>
 
