@@ -52,3 +52,23 @@ To have a chat about my research or to discuss collaborations, please reach out 
 
 </details>
 
+<details>
+  <summary>Click to expand</summary>
+  
+  <div id="expandable-content" markdown="1">
+  
+  This is the content that will be hidden by default and shown when the user clicks the summary above.
+
+  [This is a hyperlink](https://example.com) that works inside the expandable section.
+
+  </div>
+</details>
+
+<script>
+  // Add JavaScript to enable Markdown rendering inside the div
+  document.getElementById('expandable-content').innerHTML = `
+    This is the content that will be hidden by default and shown when the user clicks the summary above.
+
+    [This is a hyperlink](https://example.com) that works inside the expandable section.
+  `;
+</script>
