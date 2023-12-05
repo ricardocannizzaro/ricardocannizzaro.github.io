@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Note: This site is currently under construction. Some sections may be incomplete.**
-
-Coming Soon.
-
 <!-- Causal Blocks World -->
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Causal Reasoning & Counterfactual Explanations for Robot Manipulation</summary>
@@ -69,17 +65,15 @@ Coming Soon.
   </div>
 </details>
 
-<!-- Team ORIon Task-Level Planning Sub-Team Lead (2021/22). -->
+<!-- Team ORIon Task-Level Planning Sub-Team Lead (2021/22) -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Team ORIon Task-Level Planning Sub-Team Lead (2021/22).</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Team ORIon Task-Level Planning Sub-Team Lead (2021/22)</summary>
   <div id="orion-task-level-planning" markdown="1">
   Coordinated the design and development of high-level autonomous robot behaviours to accomplish complex domestic tasks by drawing on capabilities provided by the other sub-teams (e.g., perception, manipulation, human-robot interaction) for the [RoboCup@Home](https://athome.robocup.org) 2022 competition and various team outreach activities.  
   
   Implemented complex behaviours as finite-state machines, using the ROS SMACH state machine package, robust to robot failure modes (eg manipulation failure) and sources of environmental uncertainty (eg object placement). Conducted verification and testing in Gazebo simulation and on robot hardware. Performed verification to ensure compliance of the autonomous behaviours developed for the RoboCup 2022 competition to rulebook task specifications.
   </div>
 </details>
-
-
 
 <!-- Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions -->
 <details>
@@ -109,28 +103,18 @@ Coming Soon.
   </div>
 </details>
 
-<!-- Project -->
+<!-- A Random-Finite-Set-based SLAM algorithm for aerial robots with scanning and solid-state LIDARS -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Project Name</summary>
-  <div id="unique_id1" markdown="1">
-  Project Description
+  <summary style="font-weight: bold; cursor: pointer;">A Random-Finite-Set-based SLAM algorithm for aerial robots with scanning and solid-state LIDARS</summary>
+  <div id="rfs-slam" markdown="1">
+    Led a six-person team to experimentally validate a novel particle-filter-based 2D SLAM algorithm. Generated a new dataset containing data from seven scanning and solid-state LIDARs on a hexacopter, each collected independently during autonomous laboratory flights. Evaluated the novel SLAM algorithm on two sensors from the dataset and analysed error propagation, compared performance with GMapping SLAM, published results. [\[Paper\]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
   </div>
 </details>
 
-<!-- Project -->
-<details>
+<!-- <details>
   <summary style="font-weight: bold; cursor: pointer;">Project Name</summary>
   <div id="unique_id2" markdown="1">
   Project Description
   </div>
-</details>
-
-<!-- Project -->
-<details>
-  <summary style="font-weight: bold; cursor: pointer;">Project Name</summary>
-  <div id="unique_id3" markdown="1">
-  Project Description
-  </div>
-</details>
-
+</details> -->
 
