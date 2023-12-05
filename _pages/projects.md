@@ -79,7 +79,7 @@ author_profile: true
 
 <!-- Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Decentralised MCTS for Robot Intelligence, Surveillance and Reconnaissance Missions</summary>
   <div id="d-mcts" markdown="1">
   Simultaneous exploration and exploitation based on mutual information and present a general solution for scout–task coordination using decentralised Monte Carlo tree search (D-MCTS). We evaluated the performance of our algorithms in a multi-drone surveillance scenario.  
   
@@ -112,6 +112,8 @@ author_profile: true
   Led a six-person team to experimentally validate a novel particle-filter-based 2D SLAM algorithm. Generated a new dataset containing data from seven scanning and solid-state LIDARs on a hexacopter, each collected independently during autonomous laboratory flights. Evaluated the novel SLAM algorithm on two sensors from the dataset and analysed error propagation, compared performance with GMapping SLAM, published results. [\[Paper\]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
   </div>
 </details>
+
+Add some more stuff here. maybe it fixes things?
 
 <!-- <details>
   <summary style="font-weight: bold; cursor: pointer;">Project Name</summary>
