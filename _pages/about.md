@@ -64,11 +64,53 @@ To have a chat about my research or to discuss collaborations, please reach out 
   </div>
 </details>
 
-<script>
+<!-- <script>
   // Add JavaScript to enable Markdown rendering inside the div
   document.getElementById('expandable-content').innerHTML = `
     This is the content that will be hidden by default and shown when the user clicks the summary above.
 
     [This is a hyperlink](https://example.com) that works inside the expandable section.
   `;
+</script> -->
+
+<!-- <script>
+  function initializeExpandableContent(elementId, content) {
+    document.getElementById(elementId).innerHTML = content;
+  }
+</script> -->
+
+<script>
+  function initializeExpandableContent(elementId, content) {
+    document.getElementById(elementId).innerHTML = content;
+  }
+
+  const sectionContent1 = `
+    This is the content for Section 1.
+    [This is a hyperlink](https://example.com) inside Section 1.
+  `;
+
+  const sectionContent2 = `
+    This is the content for Section 2.
+    [This is a hyperlink](https://example.com) inside Section 2.
+  `;
 </script>
+
+<details>
+  <summary>Click to expand Section 1</summary>
+  
+  <div id="expandable-content-1" class="expandable-content" markdown="1">
+    <script>
+      initializeExpandableContent('expandable-content-1', sectionContent1);
+    </script>
+  </div>
+</details>
+
+<details>
+  <summary>Click to expand Section 2</summary>
+  
+  <div id="expandable-content-2" class="expandable-content" markdown="1">
+    <script>
+      initializeExpandableContent('expandable-content-2', sectionContent2);
+    </script>
+  </div>
+</details>
