@@ -23,11 +23,11 @@ Coming Soon.
   </div>
 </details>
 
-<!-- Assuring the Safety of UAVs for Mine Inspection (ASUMI) -->
+<!--  Causal Discovery, Inference & Counterfactual Explanations for Drones in Mines: -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Assuring the Safety of UAVs for Mine Inspection (ASUMI)</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Causal Discovery, Inference & Counterfactual Explanations for Drones in Mines</summary>
   <div id="drones_in_mines" markdown="1"> 
-  Made scientific, technical, and project management contributions to the [Assuring the Safety of UAVs for Mine Inspection (ASUMI) collaborative research project](https://www.york.ac.uk/assuring-autonomy/demonstrators/uav-boulby-mine/), as part of the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy), a £12m initiative funded by Lloyd’s Register Foundation and the University of York.  
+  I made scientific, technical, and project management contributions to the [Assuring the Safety of UAVs for Mine Inspection (ASUMI) collaborative research project](https://www.york.ac.uk/assuring-autonomy/demonstrators/uav-boulby-mine/), as part of the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy), a £12m initiative funded by Lloyd’s Register Foundation and the University of York.  
 
   * Proposed a novel framework for probabilistic causal discovery, causal Bayesian inference & post-hoc counterfactual explanations for autonomous drones in mine surveying tasks and published an IROS 2023 Causality for Robotics [workshop paper](https://arxiv.org/abs/2308.10047).
   * Leading the creation of a collaboration between the University of Oxford and the University of York to investigate the use of temporal logics and formal probabilistic model-checking methods to bridge high-level abstract functional, safety, social, legal, and ethical constraints of autonomous systems with symbolic probabilistic causal model representations of robot-world systems and causal Bayesian inference for prediction, planning, and counterfactual explanations — in aid of codifying the assurance of autonomous AI and robot systems.
@@ -44,7 +44,7 @@ Coming Soon.
   
   IROS 2023 conference paper: [\[arXiv paper\]](https://arxiv.org/abs/2304.06848) [\[conference listing\]](https://events.infovaya.com/presentation?id=104849).  
 
-  I also an invited talk on my research on causality for confounded POMDP planning problems for robotics at the \href{https://sites.google.com/view/iros23-causal-robots}{\emph{Causality for Robotics}} workshop at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 in Detroit, USA.  
+  I also gave an invited talk on causality for confounded POMDP planning problems for robotics at the [IROS 2023 Causality for Robotics workshop](https://sites.google.com/view/iros23-causal-robots).
   </div>
 </details>
 
