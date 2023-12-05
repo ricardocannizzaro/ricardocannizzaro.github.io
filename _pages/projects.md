@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+I am always open to chat about my research and discuss collaborations. Please reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro) to arrange a chat!
+
+Below is a list of my recent projects.
+
 <!-- Causal Blocks World -->
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Causal Reasoning & Counterfactual Explanations for Robot Manipulation</summary>
@@ -112,8 +116,6 @@ author_profile: true
   Led a six-person team to experimentally validate a novel particle-filter-based 2D SLAM algorithm. Generated a new dataset containing data from seven scanning and solid-state LIDARs on a hexacopter, each collected independently during autonomous laboratory flights. Evaluated the novel SLAM algorithm on two sensors from the dataset and analysed error propagation, compared performance with GMapping SLAM, published results. [\[Paper\]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
   </div>
 </details>
-
-Add some more stuff here. maybe it fixes things?
 
 <!-- <details>
   <summary style="font-weight: bold; cursor: pointer;">Project Name</summary>

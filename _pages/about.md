@@ -14,7 +14,7 @@ I am a third-year DPhil (PhD) student at the [Cognitive Robotics Group](https://
 <!-- PhD Research -->
 I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments.  
 
-I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
+I am exploring the benefits of applying these methods to assure the autonomy of robots undertaking tasks in manipulation, assistive robotics and mine survey applications.
 
 <!-- Mission Statement / Purpose -->
 I am passionate about STEM education, outreach and diversity.
