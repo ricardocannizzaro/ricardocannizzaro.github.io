@@ -12,7 +12,11 @@ redirect_from:
 I am a 3rd-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au). I have 8+ years of building software and hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. 
 
 <!-- Mission Statement / Purpose -->
-I am interested in formal knowledge representation and semantic reasoning methods; probabilistic planning and decision-making methods; and situated task intelligence for the robust and assured autonomy of mobile robot systems in complex real-world applications. I am passionate about STEM education, outreach and diversity.
+I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments.  
+
+I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
+
+I am passionate about STEM education, outreach and diversity.
 
 **I am seeking PhD internship roles in causal AI/ML.**
 
@@ -26,14 +30,14 @@ I am interested in formal knowledge representation and semantic reasoning method
 To have a chat about my research or to discuss collaborations, please reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
 
 <!-- PhD Research -->
-<details>
+<!-- <details>
   <summary style="font-weight: bold; cursor: pointer;">PhD Research</summary>
   <div id="phd-research" markdown="1">
   I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments.  
 
   I am exploring the benefits of applying these models and inference methods to achieve the autonomy assurance for robots undertaking tasks in manipulation, assistive robotics, and mine survey applications.
   </div>
-</details>
+</details> -->
 
 <!-- Work Experience -->
 <details>
@@ -53,10 +57,10 @@ To have a chat about my research or to discuss collaborations, please reach out 
   </div>
 </details>
 
-<!-- Past Study -->
+<!-- Past Education -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Education</summary>
-  <div id="education" markdown="1">
+  <summary style="font-weight: bold; cursor: pointer;">Past Education</summary>
+  <div id="past-education" markdown="1">
   I completed my Bachelor of Engingeering (Honours) (Robotics & Mechatronics) (First Class Honours) in 2016 at the Swinburne University of Technology in Melbourne, Australia, [School of Engineering](https://www.swinburne.edu.au/science-engineering-technology/schools-departments/engineering/index.php) (4 years + industry-based learning year at DSTG). For my honours thesis project I created an autonomous ground robot system for remote chemical detection and localisation, under the supervision of [Professor Zhenwei Cao](https://scholar.google.com/citations?user=Xgac2EoAAAAJ&hl=en) and [Dr Jennifer Palmer](https://scholar.google.com/citations?hl=en&user=R22EoSYAAAAJ). I implemented a passive chemical-emitter localisation algorithm and integreated a novel bespoke DSTG chemical detection sensor into an autonomous Clearpath Robotics [TurtleBot 2](https://clearpathrobotics.com/turtlebot-2-open-source-robot/) robot system.  
   
   I completed my Bachelor of Science (Mechanical Systems) in 2012 at the University of Melbourne in Melbourne, Australia, [Faculty of Engineering and Information Technology](https://eng.unimelb.edu.au/) / [Faculty of Science](https://science.unimelb.edu.au/). I spent 6 months at KTH Stockholm in 2012 as a visiting student at the [Division of Robotics, Perception and Learning](https://www.kth.se/is/rpl) and [Department of Engineering Mechanics (Aerospace Engineering)](https://www.kth.se/en/tekmek).
