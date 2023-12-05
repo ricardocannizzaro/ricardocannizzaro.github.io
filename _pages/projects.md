@@ -30,11 +30,8 @@ Coming Soon.
   Made scientific, technical, and project management contributions to the [Assuring the Safety of UAVs for Mine Inspection (ASUMI) collaborative research project](https://www.york.ac.uk/assuring-autonomy/demonstrators/uav-boulby-mine/), as part of the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy), a £12m initiative funded by Lloyd’s Register Foundation and the University of York.  
 
   * Proposed a novel framework for probabilistic causal discovery, causal Bayesian inference & post-hoc counterfactual explanations for autonomous drones in mine surveying tasks and published an IROS 2023 Causality for Robotics [workshop paper](https://arxiv.org/abs/2308.10047).
-    
   * Leading the creation of a collaboration between the University of Oxford and the University of York to investigate the use of temporal logics and formal probabilistic model-checking methods to bridge high-level abstract functional, safety, social, legal, and ethical constraints of autonomous systems with symbolic probabilistic causal model representations of robot-world systems and causal Bayesian inference for prediction, planning, and counterfactual explanations — in aid of codifying the assurance of autonomous AI and robot systems.
-    
   * Led a scientific trial to perform 3D scanning and mapping of a mine tunnel segment at the Boulby underground Lab in the [ICL Boulby Mine](https://www.icl-uk.uk/), using a bespoke LIDAR-camera-IMU SLAM software and hardware system from the ORI Dynamic Robot Systems group. Successfully generated a fully registered point cloud 3D SLAM map covering over 200m of tunnel length. Undertaking work to generate a colorized point cloud, colorized mesh representation, and a high-fidelity Gazebo simulation world to be used to test and validate autonomous drone behaviors in simulation.
-    
   * Co-organized a 6-month extended hackathon. Organized project timeline, competition description, team planning documents, and presentations. Developed PX4 flight control unit and Robot Operating System (ROS) based aerial autonomy software, delivered an autonomy framework, and validated the framework in a physics-based Gazebo robot simulation mock-mine environment.
   </div>
 </details>
@@ -58,24 +55,15 @@ Coming Soon.
   Led and grew Team ORIon, the ORI’s official student robotics competition and outreach team, as Team Lead (2021/22)
   
   * Performed the Team Lead role for Team ORIon during the 2021/22 academic year.
-
   * Led a team of 11 PhD, masters, and undergraduate students to develop complex autonomous behaviors to enable the Toyota Human Support Robot to assist people with everyday tasks around the 
   home, including fetching household objects, putting away the groceries, and acting as a robot party host.
-
   * Grew the team from 4 to 11 active members in 12 months and led a team refresh following a COVID-hiatus.
-
   * Led the coordination of the 11-person team participation in the [RoboCup@Home 2022 international robotics competition](https://athome.robocup.org/) Domestic Standard Platform League in   Bangkok, Thailand — one of the largest annual robotics competitions — with 14 different leagues and teams from across the world.
-    
   * Raised £33k in total funding from the Oxford Engineering Science department, Oxford colleges, industry sponsors, and private donors to permit the competition attendance of all critical team personnel.
-    
   * Awarded a £350 St Edmund Hall Postgraduate College Grant for participation at RoboCup@Home 2023.
-    
   * Coordinated technical and software development of autonomous behaviors by the sub-teams.
-    
   * Organized team recruitment activities, software and hardware training sessions, and social activities.
-    
   * Coordinated public science outreach and robot demonstrations at University of Oxford events.
-    
   * Continuing to support the team since August 2022 by consulting the leadership team on organizational and technical matters and advocating for departmental support.
 
   </div>
