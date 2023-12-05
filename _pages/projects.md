@@ -23,31 +23,31 @@ Coming Soon.
   </div>
 </details>
 
-<!-- Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions -->
+<!-- Assuring the Safety of UAVs for Mine Inspection (ASUMI) -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions</summary>
-  <div id="d-mcts" markdown="1">
-  Simultaneous exploration and exploitation based on mutual information and present a general solution for scout–task coordination using decentralised Monte Carlo tree search (D-MCTS). We evaluate the performance of our algorithms in a multi-drone surveillance scenario.  
-  
-  Collaborated with UTS academic partners to increase task performance in heterogeneous multi-robot systems using dec-MCTS. Advised on UAS software and hardware design and field deployments; ran field trials (incl. role of safety pilot); and co-authored scientific papers.  
-  
-  Published a conference and workshop paper at ICRA 2021 on heterogeneous multi-robot teams for multi-drone surveillance applications. Won the [Best Paper Award](https://clearpathrobotics.com/blog/2021/06/clearpath-sponsors-swarm-robotics-workshop-showcases-new-robot-at-icra-2021) at the ICRA 2021 [Robot Swarms in the Real World Workshop](https://sites.google.com/view/realworldswarms).
+  <summary style="font-weight: bold; cursor: pointer;">Assuring the Safety of UAVs for Mine Inspection (ASUMI)</summary>
+  <div id="drones_in_mines" markdown="1"> 
+  Made scientific, technical, and project management contributions to the [Assuring the Safety of UAVs for Mine Inspection (ASUMI) collaborative research project](https://www.york.ac.uk/assuring-autonomy/demonstrators/uav-boulby-mine/), as part of the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy), a £12m initiative funded by Lloyd’s Register Foundation and the University of York.  
+
+  * Proposed a novel framework for probabilistic causal discovery, causal Bayesian inference & post-hoc counterfactual explanations for autonomous drones in mine surveying tasks and published an IROS 2023 Causality for Robotics [workshop paper](https://arxiv.org/abs/2308.10047).
+    
+  * Leading the creation of a collaboration between the University of Oxford and the University of York to investigate the use of temporal logics and formal probabilistic model-checking methods to bridge high-level abstract functional, safety, social, legal, and ethical constraints of autonomous systems with symbolic probabilistic causal model representations of robot-world systems and causal Bayesian inference for prediction, planning, and counterfactual explanations — in aid of codifying the assurance of autonomous AI and robot systems.
+    
+  * Led a scientific trial to perform 3D scanning and mapping of a mine tunnel segment at the Boulby underground Lab in the [ICL Boulby Mine](https://www.icl-uk.uk/), using a bespoke LIDAR-camera-IMU SLAM software and hardware system from the ORI Dynamic Robot Systems group. Successfully generated a fully registered point cloud 3D SLAM map covering over 200m of tunnel length. Undertaking work to generate a colorized point cloud, colorized mesh representation, and a high-fidelity Gazebo simulation world to be used to test and validate autonomous drone behaviors in simulation.
+    
+  * Co-organized a 6-month extended hackathon. Organized project timeline, competition description, team planning documents, and presentations. Developed PX4 flight control unit and Robot Operating System (ROS) based aerial autonomy software, delivered an autonomy framework, and validated the framework in a physics-based Gazebo robot simulation mock-mine environment.
   </div>
 </details>
 
-<!-- Scaleable Multi-Robot Exploration & Return in Apriori Unknown Environments -->
+<!-- CAR-DESPOT -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Scaleable Multi-Robot Exploration & Return in Apriori Unknown Environments</summary>
-  <div id="tas-dcrc-swarming" markdown="1">
-  Developed C++/ROS based decentralised multi-agent robot control software and performed robot autonomy software and aircraft companion computer hardware integration, to deliver DST Group project outcomes for the [Trusted Autonomous Systems Defence-Led Cooperative Research Centre](https://tasdcrc.com.au). Led simulation- and hardware-in-the-loop (SITL, HITL) validation and lab-based autonomous flight validation activities.
-  </div>
-</details>
+  <summary style="font-weight: bold; cursor: pointer;">Causally-Informed POMDP Planning for Robots Under Confounded Decision-Making</summary>
+  <div id="car-despot" markdown="1">
+  I proposed and developed **CAR-DESPOT**, a novel structural causal model (SCM) based online POMDP robot planner that achieves better task-level planning and policy execution performance by addressing issues of confounding in the robot decision making process, using causal modelling and causal Bayesian inference to eliminate confounding errors. I also proposed a stochastic variational inference (SVI) based method to learn offline the parameterisation of the causal system transition model, used for planning, from ground truth model data. I developed both methods in the [Pyro probabilistic programming language](https://pyro.ai), built on PyTorch. I successfully validated the methods on a toy problem with an unobserved confounder: demonstrated the learned causal model is highly accurate, and the proposed planning method is more robust to confounding and produces overall higher performing policies than the baseline method.  
+  
+  IROS 2023 conference paper: [\[arXiv paper\]](https://arxiv.org/abs/2304.06848) [\[conference listing\]](https://events.infovaya.com/presentation?id=104849).  
 
-<!-- Autonomous Drone Navigation & Mapping in Mixed GNSS-Available Urban Environments -->
-<details>
-  <summary style="font-weight: bold; cursor: pointer;">Autonomous Drone Navigation & Mapping in Mixed GNSS-Available Urban Environments</summary>
-  <div id="mixed-gnss-nav" markdown="1">
-  Developed custom ArduCopter multi-rotor flight controller firmware and C++/ROS autonomy software to enable resilient drone navigation, localisation, and mapping in mixed GNSS-available urban environments, to deliver against DST Group commitments to the [Trusted Scalable Search with Expendable Drones project](https://tasdcrc.com.au/what-we-do/#trustedsearch) within the [Trusted Autonomous Systems Defence-Led Cooperative Research Centre](https://tasdcrc.com.au). Implemented adaptive use of SLAM and GNSS pose estimates (e.g., from GPS measurements) for hybrid localisation and stable automated localisation transitions. Performed validation through simulation and robot hardware indoor/outdoor flight trials.
+  I also an invited talk on my research on causality for confounded POMDP planning problems for robotics at the \href{https://sites.google.com/view/iros23-causal-robots}{\emph{Causality for Robotics}} workshop at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 in Detroit, USA.  
   </div>
 </details>
 
@@ -91,19 +91,33 @@ Coming Soon.
   </div>
 </details>
 
-<!-- Assuring the Safety of UAVs for Mine Inspection (ASUMI) -->
-<details>
-  <summary style="font-weight: bold; cursor: pointer;">Assuring the Safety of UAVs for Mine Inspection (ASUMI)</summary>
-  <div id="drones_in_mines" markdown="1"> 
-  Made scientific, technical, and project management contributions to the [Assuring the Safety of UAVs for Mine Inspection (ASUMI) collaborative research project](https://www.york.ac.uk/assuring-autonomy/demonstrators/uav-boulby-mine/), as part of the [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy), a £12m initiative funded by Lloyd’s Register Foundation and the University of York.  
 
-  * Proposed a novel framework for probabilistic causal discovery, causal Bayesian inference & post-hoc counterfactual explanations for autonomous drones in mine surveying tasks and published an IROS 2023 Causality for Robotics [workshop paper](https://arxiv.org/abs/2308.10047).
-    
-  * Leading the creation of a collaboration between the University of Oxford and the University of York to investigate the use of temporal logics and formal probabilistic model-checking methods to bridge high-level abstract functional, safety, social, legal, and ethical constraints of autonomous systems with symbolic probabilistic causal model representations of robot-world systems and causal Bayesian inference for prediction, planning, and counterfactual explanations — in aid of codifying the assurance of autonomous AI and robot systems.
-    
-  * Led a scientific trial to perform 3D scanning and mapping of a mine tunnel segment at the Boulby underground Lab in the [ICL Boulby Mine](https://www.icl-uk.uk/), using a bespoke LIDAR-camera-IMU SLAM software and hardware system from the ORI Dynamic Robot Systems group. Successfully generated a fully registered point cloud 3D SLAM map covering over 200m of tunnel length. Undertaking work to generate a colorized point cloud, colorized mesh representation, and a high-fidelity Gazebo simulation world to be used to test and validate autonomous drone behaviors in simulation.
-    
-  * Co-organized a 6-month extended hackathon. Organized project timeline, competition description, team planning documents, and presentations. Developed PX4 flight control unit and Robot Operating System (ROS) based aerial autonomy software, delivered an autonomy framework, and validated the framework in a physics-based Gazebo robot simulation mock-mine environment.
+
+<!-- Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions -->
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions</summary>
+  <div id="d-mcts" markdown="1">
+  Simultaneous exploration and exploitation based on mutual information and present a general solution for scout–task coordination using decentralised Monte Carlo tree search (D-MCTS). We evaluate the performance of our algorithms in a multi-drone surveillance scenario.  
+  
+  Collaborated with UTS academic partners to increase task performance in heterogeneous multi-robot systems using dec-MCTS. Advised on UAS software and hardware design and field deployments; ran field trials (incl. role of safety pilot); and co-authored scientific papers.  
+  
+  Published a conference and workshop paper at ICRA 2021 on heterogeneous multi-robot teams for multi-drone surveillance applications. Won the [Best Paper Award](https://clearpathrobotics.com/blog/2021/06/clearpath-sponsors-swarm-robotics-workshop-showcases-new-robot-at-icra-2021) at the ICRA 2021 [Robot Swarms in the Real World Workshop](https://sites.google.com/view/realworldswarms).
+  </div>
+</details>
+
+<!-- Scaleable Multi-Robot Exploration & Return in Apriori Unknown Environments -->
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Scaleable Multi-Robot Exploration & Return in Apriori Unknown Environments</summary>
+  <div id="tas-dcrc-swarming" markdown="1">
+  Developed C++/ROS based decentralised multi-agent robot control software and performed robot autonomy software and aircraft companion computer hardware integration, to deliver DST Group project outcomes for the [Trusted Autonomous Systems Defence-Led Cooperative Research Centre](https://tasdcrc.com.au). Led simulation- and hardware-in-the-loop (SITL, HITL) validation and lab-based autonomous flight validation activities.
+  </div>
+</details>
+
+<!-- Autonomous Drone Navigation & Mapping in Mixed GNSS-Available Urban Environments -->
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Autonomous Drone Navigation & Mapping in Mixed GNSS-Available Urban Environments</summary>
+  <div id="mixed-gnss-nav" markdown="1">
+  Developed custom ArduCopter multi-rotor flight controller firmware and C++/ROS autonomy software to enable resilient drone navigation, localisation, and mapping in mixed GNSS-available urban environments, to deliver against DST Group commitments to the [Trusted Scalable Search with Expendable Drones project](https://tasdcrc.com.au/what-we-do/#trustedsearch) within the [Trusted Autonomous Systems Defence-Led Cooperative Research Centre](https://tasdcrc.com.au). Implemented adaptive use of SLAM and GNSS pose estimates (e.g., from GPS measurements) for hybrid localisation and stable automated localisation transitions. Performed validation through simulation and robot hardware indoor/outdoor flight trials.
   </div>
 </details>
 
