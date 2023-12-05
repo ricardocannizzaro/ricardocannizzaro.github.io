@@ -9,13 +9,15 @@ author_profile: true
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Causal Reasoning & Counterfactual Explanations for Robot Manipulation</summary>
   <div id="causal-blocks-world" markdown="1">
-  I am leading a 8-person collaborative research project investigating the use of probabilistic causal generative models and Bayesian causal inference, for prediction, action-selection, and counterfactual explanations for mobile robots undertaking manipulation tasks in home-care and domestic assistance applications, to increase robustness of robot task execution and increase AI/robot trust and explainability with human end-users.  
+  I am leading a eight-person collaborative research project investigating the use of probabilistic causal generative models and Bayesian causal inference, for prediction, action-selection, and counterfactual explanations for mobile robots undertaking manipulation tasks in home-care and domestic assistance applications, to increase robustness of robot task execution and increase AI/robot trust and explainability with human end-users.  
   
-  We have developed a causal world model encoding robot-world-task relationships using the PyBullet physics-based simulator, the robot decision-making process, and noise and uncertainties in robot sensing and manipulation actions. We developed Bayesian prediction and probabilistic optimal action-selection methods for the robot block stacking task as an exemplar application. We have integrated the reasoning methods into a ROS-based autonomy framework targeting the Toyota Human Support Robot hardware, including an Aruco marker based 3D perception system and ROS MoveIt motion-planner and manipulation system. [IROS Causality for Robotics Workshop paper](https://arxiv.org/abs/2308.06203).  
+  We have developed a causal world model encoding robot-world-task relationships using the PyBullet physics-based simulator, the robot decision-making process, and noise and uncertainties in robot sensing and manipulation actions. We developed Bayesian prediction and probabilistic optimal action-selection methods for the robot block stacking task as an exemplar application. We have integrated the reasoning methods into a ROS-based autonomy framework targeting the Toyota Human Support Robot hardware, including an Aruco marker based 3D perception system and ROS MoveIt motion-planner and manipulation system. Our work is described further in our [IROS Causality for Robotics Workshop paper](https://arxiv.org/abs/2308.06203).  
   
   We have demonstrated block tower stability prediction and next-best action selection for autonomous robot block tower construction using robot hardware, and in the Gazebo physics-based robot simulator.  
   
-  We are now extending the project to formulate the robot-world-task model as a SCM and develop post-hoc counterfactual explanation methods to explain robot behaviour and tasks outcomes in terms of robot perceptions, decisions, and actions. These methods will be used to create a human-robot natural language explanation system for human support robots, and will be integrated with the [Ethical Black Box](https://www.robotips.co.uk/ethical-black-box) data recording system and [human-robot dialogue system](https://sites.google.com/view/icra22ws-cor-wotf/accepted-papers#h.14191a22e7c35daf_244) developed under the [RoboTIPS](https://www.robotips.co.uk/home) UK Research and Innovation EPSRC Established Career Fellowship awarded to Dr Marina Jarotka. Project Ref: [EP/S005099/1](https://gtr.ukri.org/projects?ref=EP%2FS005099%2F1).
+  We are now extending the project to formulate the robot-world-task model as a SCM and develop post-hoc counterfactual explanation methods to explain robot behaviour and tasks outcomes in terms of robot perceptions, decisions, and actions. 
+  
+  These methods will be used to create a human-robot natural language explanation system for human support robots, and will be integrated with the [Ethical Black Box](https://www.robotips.co.uk/ethical-black-box) data recording system and [human-robot dialogue system](https://sites.google.com/view/icra22ws-cor-wotf/accepted-papers#h.14191a22e7c35daf_244) developed under the [RoboTIPS](https://www.robotips.co.uk/home) UK Research and Innovation EPSRC Established Career Fellowship awarded to Dr Marina Jarotka. Project Ref: [EP/S005099/1](https://gtr.ukri.org/projects?ref=EP%2FS005099%2F1).
   </div>
 </details>
 
@@ -28,7 +30,7 @@ author_profile: true
   * Proposed a novel framework for probabilistic causal discovery, causal Bayesian inference & post-hoc counterfactual explanations for autonomous drones in mine surveying tasks and published an IROS 2023 Causality for Robotics [workshop paper](https://arxiv.org/abs/2308.10047).
   * Leading the creation of a collaboration between the University of Oxford and the University of York to investigate the use of temporal logics and formal probabilistic model-checking methods to bridge high-level abstract functional, safety, social, legal, and ethical constraints of autonomous systems with symbolic probabilistic causal model representations of robot-world systems and causal Bayesian inference for prediction, planning, and counterfactual explanations — in aid of codifying the assurance of autonomous AI and robot systems.
   * Led a scientific trial to perform 3D scanning and mapping of a mine tunnel segment at the Boulby underground Lab in the [ICL Boulby Mine](https://www.icl-uk.uk/), using a bespoke LIDAR-camera-IMU SLAM software and hardware system from the ORI Dynamic Robot Systems group. Successfully generated a fully registered point cloud 3D SLAM map covering over 200m of tunnel length. Undertaking work to generate a colorized point cloud, colorized mesh representation, and a high-fidelity Gazebo simulation world to be used to test and validate autonomous drone behaviors in simulation.
-  * Co-organized a 6-month extended hackathon. Organized project timeline, competition description, team planning documents, and presentations. Developed PX4 flight control unit and Robot Operating System (ROS) based aerial autonomy software, delivered an autonomy framework, and validated the framework in a physics-based Gazebo robot simulation mock-mine environment.
+  * Co-organized a six-month extended hackathon. Organized project timeline, competition description, team planning documents, and presentations. Developed PX4 flight control unit and Robot Operating System (ROS) based aerial autonomy software, delivered an autonomy framework, and validated the framework in a physics-based Gazebo robot simulation mock-mine environment.
   </div>
 </details>
 
@@ -79,11 +81,11 @@ author_profile: true
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Decentralised MCTS for Robot Intelligence, Surveillance, and Reconnaissance Missions</summary>
   <div id="d-mcts" markdown="1">
-  Simultaneous exploration and exploitation based on mutual information and present a general solution for scout–task coordination using decentralised Monte Carlo tree search (D-MCTS). We evaluate the performance of our algorithms in a multi-drone surveillance scenario.  
+  Simultaneous exploration and exploitation based on mutual information and present a general solution for scout–task coordination using decentralised Monte Carlo tree search (D-MCTS). We evaluated the performance of our algorithms in a multi-drone surveillance scenario.  
   
   Collaborated with UTS academic partners to increase task performance in heterogeneous multi-robot systems using dec-MCTS. Advised on UAS software and hardware design and field deployments; ran field trials (incl. role of safety pilot); and co-authored scientific papers.  
   
-  Published a conference and workshop paper at ICRA 2021 on heterogeneous multi-robot teams for multi-drone surveillance applications. Won the [Best Paper Award](https://clearpathrobotics.com/blog/2021/06/clearpath-sponsors-swarm-robotics-workshop-showcases-new-robot-at-icra-2021) at the ICRA 2021 [Robot Swarms in the Real World Workshop](https://sites.google.com/view/realworldswarms).
+  Published an ICRA 2021 [conference paper](https://ieeexplore.ieee.org/document/9560822) and [workshop paper](https://arxiv.org/abs/2106.09219) on heterogeneous multi-robot teams for multi-drone surveillance applications. Won the [Best Paper Award](https://clearpathrobotics.com/blog/2021/06/clearpath-sponsors-swarm-robotics-workshop-showcases-new-robot-at-icra-2021) at the ICRA 2021 [Robot Swarms in the Real World Workshop](https://sites.google.com/view/realworldswarms).
   </div>
 </details>
 
@@ -107,7 +109,7 @@ author_profile: true
 <details>
   <summary style="font-weight: bold; cursor: pointer;">A Random-Finite-Set-based SLAM algorithm for aerial robots with scanning and solid-state LIDARS</summary>
   <div id="rfs-slam" markdown="1">
-    Led a six-person team to experimentally validate a novel particle-filter-based 2D SLAM algorithm. Generated a new dataset containing data from seven scanning and solid-state LIDARs on a hexacopter, each collected independently during autonomous laboratory flights. Evaluated the novel SLAM algorithm on two sensors from the dataset and analysed error propagation, compared performance with GMapping SLAM, published results. [\[Paper\]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
+  Led a six-person team to experimentally validate a novel particle-filter-based 2D SLAM algorithm. Generated a new dataset containing data from seven scanning and solid-state LIDARs on a hexacopter, each collected independently during autonomous laboratory flights. Evaluated the novel SLAM algorithm on two sensors from the dataset and analysed error propagation, compared performance with GMapping SLAM, published results. [\[Paper\]](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap105s1-file1.pdf)
   </div>
 </details>
 
