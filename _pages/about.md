@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <!-- Intro -->
-I am a third-year DPhil (PhD) student at the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) of the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Dr Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au). I have 8+ years of building software and hardware systems that perceive, understand and make decisions autonomously in complex real-world applications. 
+I am a fifth-year DPhil (PhD) student with the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) and the [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) group at the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Prof Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en) & [Prof Nick Hawes](https://scholar.google.co.uk/citations?user=bRsi4zoAAAAJ&hl=en). My DPhil is funded by the [Australian Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au). 
+
+I have 10+ years experience building AI/ML-empowered software and hardware systems that perceive, understand, make decisions and generate explanations autonomously in complex real-world applications. 
 
 <!-- PhD Research -->
 I am researching probabilistic generative causal models to encode formal representations of robot knowledge and world uncertainties, built from domain expertise and learned from data, for robot sensors, actuators, tasks, and decision-making processes. I am investigating the use of causal Bayesian inference for prediction, planning and decision-making, and causal explanations for robots operating in challenging complex, uncertain, and partially-observable real-world environments.  
