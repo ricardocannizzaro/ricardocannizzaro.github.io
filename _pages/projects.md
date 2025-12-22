@@ -9,6 +9,14 @@ I am always open to chat about my research and discuss collaborations. Please re
 
 Below is a list of my recent projects.
 
+<!-- Microsoft Research Internship -->
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Microsoft Research (MSR) — Causal reasoning for multimodal generative AI (MSR Redmond, Summer 2024)</summary>
+  <div id="msr-internship" markdown="1">
+  During Summer 2024 I completed a PhD research internship at Microsoft Research (MSR) Redmond supervised by Dr Robert Ness and Dr Emre Kiciman. My work focused on improving causal reasoning and explanation capabilities of multimodal generative AI models, including developing evaluation benchmarks and experiments to probe causal inference in large multimodal models. The internship informed subsequent research into causal generative models for robot reasoning and counterfactual explanations and produced code and experiments that were integrated into follow-on projects at Oxford Robotics Institute.
+  </div>
+</details>
+
 <!-- Causal Blocks World -->
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Causal Reasoning & Counterfactual Explanations for Robot Manipulation</summary>
