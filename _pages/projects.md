@@ -9,11 +9,19 @@ I am always open to chat about my research and discuss collaborations. Please re
 
 Below is a list of my recent projects.
 
-<!-- Microsoft Research Internship -->
+<!-- Microsoft Research Internship #2 -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Microsoft Research (MSR) — Causal reasoning for multimodal generative AI (MSR Redmond, Summer 2024)</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Microsoft Research (MSR) — GenAI Consistency through Counterfactual Parallel Worlds (MSR Redmond, Summer 2025)</summary>
   <div id="msr-internship" markdown="1">
-  During Summer 2024 I completed a PhD research internship at Microsoft Research (MSR) Redmond supervised by Dr Robert Ness and Dr Emre Kiciman. My work focused on improving causal reasoning and explanation capabilities of multimodal generative AI models, including developing evaluation benchmarks and experiments to probe causal inference in large multimodal models. The internship informed subsequent research into causal generative models for robot reasoning and counterfactual explanations and produced code and experiments that were integrated into follow-on projects at Oxford Robotics Institute.
+  During Summer 2025 I completed an advanced PhD research internship at Microsoft Research (MSR) Redmond supervised by Dr Robert Ness. I conducted advanced research on formalising causal and consistency constraints for foundation and generative models in interactive virtual environments, enabling models to learn environment dynamics and video game mechanics beyond pixel-level generation. [Paper under review at ICLR 2026](https://openreview.net/pdf?id=5Q8r8ZubAH)
+  </div>
+</details>
+
+<!-- Microsoft Research Internship #1 -->
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Microsoft Research (MSR) — Causal Reasoning for Multimodal Generative AI (MSR Redmond, Summer 2024)</summary>
+  <div id="msr-internship" markdown="1">
+  During Summer 2024 I completed a PhD research internship at Microsoft Research (MSR) Redmond supervised by Dr Robert Ness and Dr Emre Kiciman. My work focused on improving causal reasoning and explanation capabilities of multimodal generative AI models, including developing evaluation benchmarks and experiments to probe causal inference in large multimodal models. The internship informed subsequent research into causal generative models for counterfactual learning and reasoning.
   </div>
 </details>
 
