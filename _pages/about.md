@@ -55,12 +55,33 @@ To have a chat about my research or to discuss collaborations, please reach out 
   </div>
 </details>
 
-<!-- Past Education -->
+<!-- Education -->
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Past Education</summary>
-  <div id="past-education" markdown="1">
-  I completed my Bachelor of Engineering (Honours) (Robotics & Mechatronics) (First Class Honours) in 2016 at the Swinburne University of Technology in Melbourne, Australia, [School of Engineering](https://www.swinburne.edu.au/science-engineering-technology/schools-departments/engineering/index.php) (4 years + industry-based learning year at DSTG). For my honours thesis project I created an autonomous ground robot system for remote chemical detection and localisation, under the supervision of [Professor Zhenwei Cao](https://scholar.google.com/citations?user=Xgac2EoAAAAJ&hl=en) and [Dr Jennifer Palmer](https://scholar.google.com/citations?hl=en&user=R22EoSYAAAAJ). I implemented a passive chemical-emitter localisation algorithm and integrated a novel bespoke DSTG chemical detection sensor into an autonomous Clearpath Robotics [TurtleBot 2](https://clearpathrobotics.com/turtlebot-2-open-source-robot/) robot system.  
+  <summary style="font-weight: bold; cursor: pointer;">Education</summary>
+  <div id="education" markdown="1">
   
+  ### DPhil (PhD) Engineering Science 
+  Oxford Robotics Institute, University of Oxford  
+  *Thesis submitted; defence expected 2026*
+
+  **Supervisors:** Prof Lars Kunze and Prof Nick Hawes  
+  (Cognitive Robotics Group; Goal-Oriented Long-Lived Systems Group)  
+  Funded by the Australian Defence Science and Technology Group
+
+  **Thesis:** *Causal Artificial Intelligence for Robust Robot Reasoning under Uncertainty*
+
+  My doctoral research focuses on uncertainty-aware and probabilistic causal modelling for learning, inference, decision-making, and explanation in complex, partially observable environments. A central theme of my work is learning human-aligned causal representations and developing faithful, counterfactual-based explanations to support understanding and trust by non-technical users.
+
+  Methodologically, this work combines causal representation learning, Bayesian inference, probabilistic programming, and deep generative models, applied across both interactive virtual environments and real-world, hardware-integrated robotic systems. This research included, and subsequently extended, work completed through two Microsoft Research PhD internships, each forming a core thesis chapter.
+
+  **Selected Coursework:** Oxford Scientific Entrepreneurship Course; Oxford Language Centre Italian Fast-Track Course (Parts 1–2)
+  <br>
+
+  ### Bachelor of Engineering (Honours) (Robotics & Mechatronics) (First Class Honours)
+  I completed my Bachelor of Engineering (Honours) (Robotics & Mechatronics) (First Class Honours) in 2016 at the Swinburne University of Technology in Melbourne, Australia, [School of Engineering](https://www.swinburne.edu.au/science-engineering-technology/schools-departments/engineering/index.php) (4 years + industry-based learning year at DSTG). For my honours thesis project I created an autonomous ground robot system for remote chemical detection and localisation, under the supervision of [Professor Zhenwei Cao](https://scholar.google.com/citations?user=Xgac2EoAAAAJ&hl=en) and [Dr Jennifer Palmer](https://scholar.google.com/citations?hl=en&user=R22EoSYAAAAJ). I implemented a passive chemical-emitter localisation algorithm and integrated a novel bespoke DSTG chemical detection sensor into an autonomous Clearpath Robotics [TurtleBot 2](https://clearpathrobotics.com/turtlebot-2-open-source-robot/) robot system.
+  <br>
+
+  ### Bachelor of Science (Mechanical Systems)
   I completed my Bachelor of Science (Mechanical Systems) in 2012 at the University of Melbourne in Melbourne, Australia, [Faculty of Engineering and Information Technology](https://eng.unimelb.edu.au/) / [Faculty of Science](https://science.unimelb.edu.au/). I spent 6 months at KTH Stockholm in 2012 as a visiting student at the [Division of Robotics, Perception and Learning](https://www.kth.se/is/rpl) and [Department of Engineering Mechanics (Aerospace Engineering)](https://www.kth.se/en/tekmek).
   </div>
 </details>
