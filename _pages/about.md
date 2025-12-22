@@ -36,7 +36,7 @@ I am currently seeking full-time industry research roles, particularly within ap
 <!-- Call to Action -->
 To have a chat about my research or to discuss collaborations, please reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
 
-## Work Experience \& Education
+## Work Experience &amp; Education
 <!-- Work Experience -->
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Work Experience</summary>
