@@ -63,12 +63,8 @@ def print_paper_list_latex_list(sorted_papers):
         print(latex_str)
     print("\\end{itemize}")
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Generate a sorted list of papers from a BibTeX file.')
-    parser.add_argument('bib_file_path', type=str, help='Path to the BibTeX file')
 
-    args = parser.parse_args()
-
+def parse_from_args(args):
     bib_entries = load_bib_file(args.bib_file_path)
     sorted_papers = sort_by_year(bib_entries)
 
@@ -84,3 +80,12 @@ if __name__ == "__main__":
     print_paper_list_latex_list(sorted_papers)
     print("===============================\n")
 
+def main():
+    parser = argparse.ArgumentParser(description='Generate a sorted list of papers from a BibTeX file.')
+    parser.add_argument('bib_file_path', type=str, help='Path to the BibTeX file')
+
+    args = parser.parse_args()
+    parse_from_args(args)
+
+if __name__ == "__main__":
+    main()
