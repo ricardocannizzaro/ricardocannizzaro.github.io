@@ -31,6 +31,16 @@ Research Interests: *probabilistic generative causal modelling, Bayesian causal 
 <!-- Mission Statement -->
 I am currently seeking full-time industry research roles, particularly within applied research environments such as Microsoft Research.
 
+## News
+<!-- Recent News -->
+{% assign news_items = site.data.news | sort: "date" | reverse %}
+<ul>
+{% for item in news_items limit: 6 %}
+	<li><strong>{{ item.date | date: "%d/%m/%Y" }}</strong> — {{ item.text }}</li>
+{% endfor %}
+</ul>
+
+[All news](/news/)
 
 ## Contact
 <!-- Call to Action -->

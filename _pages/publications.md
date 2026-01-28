@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=t6sS4b8AAAAJ&hl) profile.
 
-* **Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds**<br>Ricardo Cannizzaro and Robert Osazuwa Ness and Yunshu Wu and Lars Kunze.  Manuscript under review at the International Conference on Learning Representations (ICLR), 2026.<br>[[Paper](https://openreview.net/pdf?id=5Q8r8ZubAH)]
+* **Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds**<br>Ricardo Cannizzaro and Robert Osazuwa Ness and Yunshu Wu and Lars Kunze. Manuscript accepted at the International Conference on Learning Representations (ICLR), 2026.<br>[[Paper](https://openreview.net/pdf?id=5Q8r8ZubAH)]
 * **{COBRA-PPM}: A Causal Bayesian Reasoning Architecture Using Probabilistic Programming for Robot Manipulation Under Uncertainty**<br>Ricardo Cannizzaro and Michael Groom and Jonathan Routley and Robert Ness and Lars Kunze. Proceedings of the 12th European Conference on Mobile Robots (ECMR) 2025.<br>[[Paper](https://ieeexplore.ieee.org/document/11163313)]
 * **CAR-DESPOT: Causally-Informed Online POMDP Planning for Robots in Confounded Environments**<br>Ricardo Cannizzaro and Lars Kunze. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.<br>[[Paper](http://arxiv.org/abs/2304.06848)]
 * **Towards a Causal Probabilistic Framework for Prediction, Action-Selection & Explanations for Robot Block-Stacking Tasks**<br>Ricardo Cannizzaro and Jonathan Routley and Lars Kunze. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 Workshop on Causality for Robotics 2023.<br>[[Paper](https://arxiv.org/abs/2308.06203)]
