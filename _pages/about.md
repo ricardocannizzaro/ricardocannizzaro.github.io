@@ -29,18 +29,7 @@ Research Interests: *probabilistic generative causal modelling, Bayesian causal 
 
 ## Currently Seeking
 <!-- Mission Statement -->
-I am currently seeking full-time industry research roles, particularly within applied research environments such as Microsoft Research.
-
-## News
-<!-- Recent News -->
-<p><em>Recent updates on publications, awards, and academic activities.</em></p>
-
-{% assign news_items = site.data.news | sort: "date" | reverse %}
-<ul>
-{% for item in news_items %}
-	<li><strong>{{ item.date | date: "%d/%m/%Y" }}</strong> — {{ item.text }}</li>
-{% endfor %}
-</ul>
+I am currently seeking senior industry research roles advancing reliable and scalable, human-aligned AI systems through learning and causal reasoning with foundation and generative models, and principled decision-making under uncertainty in large-scale, real-world deployments.
 
 ## Contact
 <!-- Call to Action -->
@@ -96,4 +85,13 @@ To have a chat about my research or to discuss collaborations, please reach out 
   </div>
 </details>
 
+## News
+<!-- Recent News -->
+<p><em>Recent updates on publications, awards, and academic activities.</em></p>
 
+{% assign news_items = site.data.news | sort: "date" | reverse %}
+<ul>
+{% for item in news_items %}
+	<li><strong>{{ item.date | date: "%d/%m/%Y" }}</strong> — {{ item.text }}</li>
+{% endfor %}
+</ul>
