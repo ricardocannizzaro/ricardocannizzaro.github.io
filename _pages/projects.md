@@ -15,7 +15,7 @@ Below is a list of my recent projects spanning causal AI, generative modelling, 
   <div id="msr-internship-2025" markdown="1">
   During Summer 2025 I completed an advanced PhD research internship at Microsoft Research (MSR) Redmond supervised by Dr Robert Ness. I conducted advanced research on formalising causal and consistency constraints for foundation and generative models in interactive virtual environments, enabling models to learn environment dynamics and video game mechanics beyond pixel-level generation.
   <br><br>
-  This work introduced parallel-world and counterfactual consistency frameworks, supported by an instrumented interactive game environment used for data generation, evaluation, and human interaction. The project resulted in a first-author [research paper under review at ICLR 2026](https://openreview.net/pdf?id=5Q8r8ZubAH) and multiple product-facing demonstrations.
+  This work introduced parallel-world and counterfactual consistency frameworks, supported by an instrumented interactive game environment used for data generation, evaluation, and human interaction. The project resulted in a first-author [research paper accepted at ICLR 2026](https://openreview.net/pdf?id=5Q8r8ZubAH) and multiple product-facing demonstrations.
   <br><br>
   This work targets a key challenge in deploying generative models for interactive systems: maintaining consistency and causal coherence across evolving user interactions.
   <br><br>
