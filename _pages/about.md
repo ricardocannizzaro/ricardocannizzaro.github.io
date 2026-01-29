@@ -33,14 +33,14 @@ I am currently seeking full-time industry research roles, particularly within ap
 
 ## News
 <!-- Recent News -->
+<p><em>Recent updates on publications, awards, and academic activities.</em></p>
+
 {% assign news_items = site.data.news | sort: "date" | reverse %}
 <ul>
-{% for item in news_items limit: 15 %}
+{% for item in news_items %}
 	<li><strong>{{ item.date | date: "%d/%m/%Y" }}</strong> — {{ item.text }}</li>
 {% endfor %}
 </ul>
-
-[All news](/news/)
 
 ## Contact
 <!-- Call to Action -->
