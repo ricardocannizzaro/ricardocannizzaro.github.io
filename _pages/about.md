@@ -35,7 +35,7 @@ I am currently seeking full-time industry research roles, particularly within ap
 <!-- Recent News -->
 {% assign news_items = site.data.news | sort: "date" | reverse %}
 <ul>
-{% for item in news_items limit: 6 %}
+{% for item in news_items limit: 15 %}
 	<li><strong>{{ item.date | date: "%d/%m/%Y" }}</strong> — {{ item.text }}</li>
 {% endfor %}
 </ul>

@@ -1,6 +1,47 @@
 - date: 2026-01-25
-  text: "Paper accepted at <strong>ICLR 2026</strong>: <em>Multiverse Mechanica</em>. The work introduces a causal generative modelling framework for learning and intervening on game mechanics, enabling counterfactually consistent parallel-world generation where only causally relevant factors change. <a href='https://openreview.net/pdf?id=5Q8r8ZubAH'>[Paper]</a>"
+  text: "I’m excited to announce that my collaboration with <strong>Microsoft Research</strong> has resulted in a paper accepted at <strong>ICLR 2026</strong>: <em>Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds</em>. The work introduces a causal generative modelling framework for learning and intervening on game mechanics, enabling counterfactually consistent parallel-world generation where only causally relevant factors change. <a href='https://openreview.net/pdf?id=5Q8r8ZubAH'>[Paper]</a>
+
 - date: 2025-10-10
-  text: "Oxford PhD thesis submitted; awaiting defence."
+  text: "I have submitted my Oxford DPhil (PhD) thesis and am currently awaiting my defence (March 2026)."
+
 - date: 2025-09-05
-  text: "Absolutely delighted to share that our work on causal reasoning for robot manipulation has received the Best Paper Award at the European Conference on Mobile Robots 2025 (ECMR 2025) in Padua, Italy! This recognition means a lot - not just for the paper, but for the broader vision of building trustworthy, explainable, and robust autonomous robot systems. A huge thank you to my brilliant collaborators at the Oxford Robotics Institute, Microsoft Research, and Bristol Robotics Laboratory! <a href='https://www.linkedin.com/posts/ricardo-cannizzaro_ecmr2025-robotics-bestpaper-activity-7369709926157324289-ilLpE'>[LinkedIn post]</a>🏆🤖🎉"
+  text: "I am absolutely delighted to share that our work on causal reasoning for robot manipulation has received the <strong>Best Paper Award</strong> at the European Conference on Mobile Robots 2025 (ECMR 2025) in Padua, Italy! This recognition means a lot - not just for the paper, but for the broader vision of building trustworthy, explainable, and robust autonomous robot systems. A huge thank you to my brilliant collaborators at the Oxford Robotics Institute, Microsoft Research, and Bristol Robotics Laboratory! <a href='https://www.linkedin.com/posts/ricardo-cannizzaro_ecmr2025-robotics-bestpaper-activity-7369709926157324289-ilLpE'>[LinkedIn post]</a>🏆🤖🎉"
+
+- date: 2025-08-15
+  text: "I was delighted to return to <strong>Microsoft Research</strong> (Redmond) to complete an <strong>advanced PhD Research Internship</strong>, where I extended my earlier work on causal and parallel-world consistency by developing mechanics-aware generative modelling frameworks and an instrumented interactive PyGame environment."
+
+- date: 2024-08-16
+  text: "I’m pleased to share that I completed my first PhD Research Internship at <strong>Microsoft Research</strong>, working with the same team on counterfactual consistency objectives for diffusion-based multi-modal generative models and human-aligned image fine-tuning."
+
+- date: 2024-04-15
+  text: "I’m happy to share our work was published at <strong>SEAMS 2024</strong>: <em>Aloft: Self-Adaptive Drone Controller Testbed</em>, introducing a testbed for studying self-adaptive control in autonomous aerial systems."
+
+- date: 2023-01-05
+  text: "I was honoured to give an invited talk at the <a href='https://sites.google.com/view/iros23-causal-robots'><strong>IROS 2023</strong></a> workshop on <em>Causality for Robotics</em>, presenting my work on confounded POMDP robot planning."
+
+- date: 2023-10-02
+  text: "I’m excited to share our paper was published at <strong>IROS 2023</strong>: <em>CAR-DESPOT: Causally-Informed Online POMDP Planning for Robots in Confounded Environments</em>, which integrates causal modelling into online planning under uncertainty."
+
+- date: 2023-08-10
+  text: "I am honoured and grateful to have received travel support to attend <strong>IROS 2023</strong>, supported by the IEEE Robot Learning Technical Committee, IEEE RAS member grants, and St Edmund Hall postgraduate funding."
+
+- date: 2023-05-29
+  text: "I co-organised the <strong>Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS)</strong> workshop at <strong>ICRA 2023</strong>, alongside Prof Lars Kunze. The workshop brought together keynote speakers, spotlight talks, and panel discussions to explore multidisciplinary perspectives on trust and trustworthiness in autonomous systems. <a href='https://lnkd.in/e7HYSJsY'>[Workshop]</a>"
+
+- date: 2021-06-04
+  text: "I was honoured to receive the <strong>Best Paper Award</strong> at the ICRA 2021 workshop on <a href='https://sites.google.com/view/realworldswarms/'>Robot Swarms in the Real World</a> for our work on multi-robot exploration."
+
+- date: 2021-05-30
+  text: "I’m happy to share our paper was published at <strong>ICRA 2021</strong>: <em>An Upper Confidence Bound for Simultaneous Exploration and Exploitation in Heterogeneous Multi-Robot Systems</em>, addressing scalable exploration–exploitation trade-offs in multi-robot teams."
+
+- date: 2021-01-18
+  text: "I’m excited to announce that I have started my DPhil (PhD) at the <strong>Oxford Robotics Institute</strong>, University of Oxford, with the <strong>Cognitive Robotics Group</strong>, supervised by Dr Lars Kunze and co-funded by the Australian Defence Science and Technology Group. My research focuses on probabilistic generative causal models for robust robot reasoning and decision-making under uncertainty."
+
+- date: 2019-11-11
+  text: "I’m pleased to share that our work was published at <strong>ACRA 2019</strong>, presenting a Random-Finite-Set-based SLAM approach for aerial robots operating with scanning and solid-state LIDARs."
+
+- date: 2019-02-28
+  text: "I’m happy to share that our paper was published at <strong>AIAC 2019</strong>, presenting an experimental evaluation of LIDAR and X-band radar sensing in particle-dense environments."
+
+- date: 2018-05-25
+  text: "I’m excited to share our paper was published at <strong>ICRA 2018</strong>, presenting scalable swarming and data-ferrying strategies for unmanned aerial systems."
