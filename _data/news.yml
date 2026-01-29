@@ -1,5 +1,5 @@
 - date: 2026-01-25
-  text: "I’m excited to announce that my collaboration with <strong>Microsoft Research</strong> has resulted in a paper accepted at <strong>ICLR 2026</strong>: <em>Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds</em>. The work introduces a causal generative modelling framework for learning and intervening on game mechanics, enabling counterfactually consistent parallel-world generation where only causally relevant factors change. <a href='https://openreview.net/pdf?id=5Q8r8ZubAH'>[Paper]</a>
+  text: "I’m excited to announce that my collaboration with <strong>Microsoft Research</strong> has resulted in a paper accepted at <strong>ICLR 2026</strong>: <em>Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds</em>. The work introduces a causal generative modelling framework for learning and intervening on game mechanics, enabling counterfactually consistent parallel-world generation where only causally relevant factors change. <a href='https://openreview.net/pdf?id=5Q8r8ZubAH'>[Paper]</a>"
 
 - date: 2025-10-10
   text: "I have submitted my Oxford DPhil (PhD) thesis and am currently awaiting my defence (March 2026)."
