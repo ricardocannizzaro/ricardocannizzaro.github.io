@@ -10,39 +10,39 @@ redirect_from:
 
 ## About
 <!-- Intro -->
-I am a causal AI and robotics researcher and final-stage DPhil (PhD) candidate with the [Cognitive Robotics Group](https://ori.ox.ac.uk/labs/cognitive-robotics-group) and the Goal-Oriented Long-Lived Systems group at the [Oxford Robotics Institute](https://ori.ox.ac.uk), [University of Oxford Department of Engineering Science](https://eng.ox.ac.uk), supervised by [Prof Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en) and [Prof Nick Hawes](https://scholar.google.co.uk/citations?user=bRsi4zoAAAAJ&hl=en). I have submitted my PhD thesis and am currently awaiting defence.
+I am a causal AI researcher, machine learning scientist, and engineer with a recently completed PhD from the University of Oxford. I work at the intersection of causal modelling, probabilistic reasoning, and generative AI, with a focus on building systems that can learn, reason, and make decisions under uncertainty in real-world and interactive environments.
 
-My doctoral research was funded by the Australian Defence Science and Technology Group, where I previously worked as a Defence Research Scientist on trusted autonomous systems.
+I completed my DPhil at the Oxford Robotics Institute within the Cognitive Robotics Group and the Goal-Oriented Long-Lived Systems group, supervised by [Prof Lars Kunze](https://scholar.google.com/citations?user=TLC0azYAAAAJ&hl=en) and [Prof Nick Hawes](https://scholar.google.co.uk/citations?user=bRsi4zoAAAAJ&hl=en). My research was funded by the Australian Defence Science and Technology Group, where I previously worked as a Defence Research Scientist on trusted autonomous systems.
 
-During my PhD, I completed two PhD Research Internships at [Microsoft Research (MSR)](https://www.microsoft.com/en-us/research/) with the AI Interaction and Learning and People-Centric AI teams in Redmond. My work focused on improving consistency and reasoning in foundation and generative AI models operating in interactive, causally complex environments, including counterfactual consistency for image fine-tuning and parallel-world consistency for generative modelling in video game environments.
+During my PhD, I completed two research internships at [Microsoft Research (MSR)](https://www.microsoft.com/en-us/research/) in Redmond with the AI Interaction and Learning and People-Centric AI groups. My work focused on improving reasoning and consistency in foundation and generative models operating in interactive, causally complex environments. This included research on counterfactual consistency for image generation and parallel-world training frameworks for learning structured game mechanics — not just pixels — resulting in first-author publications and system prototypes.
 
-I have over 10 years’ experience designing and implementing AI/ML-enabled software and hardware systems for learning, inference, and decision-making under uncertainty, spanning real-world robotics deployments and large-scale simulated environments.
+I have over 10 years’ experience designing and deploying AI/ML systems across robotics and large-scale simulation environments. My work emphasises end-to-end systems — from model development to deployment — with a focus on robustness, interpretability, and alignment with human expectations.
 
 ## Research Focus
 <!-- PhD Research -->
-My research explores probabilistic generative causal models for encoding structured knowledge and uncertainty, combining domain expertise with data-driven learning. Methodologically, this includes causal representation learning, Bayesian inference, probabilistic programming, and deep generative models such as diffusion models and transformers.
+My research explores probabilistic generative causal models for representing structured knowledge and uncertainty, combining domain expertise with data-driven learning. Methodologically, this includes causal representation learning, Bayesian inference, probabilistic programming, and deep generative models such as diffusion models and transformers.
 
-A central focus of my work is learning human-aligned causal representations and developing faithful, counterfactual-based explanations that support understanding and trust by non-technical users. I am particularly interested in human-facing AI systems that must behave consistently, robustly, and transparently in real-world settings.
+A central focus of my work is learning human-aligned causal representations and developing faithful, counterfactual-based explanations that support understanding and trust by non-technical users. I am particularly interested in AI systems that must behave consistently, robustly, and transparently in real-world settings.
 
 <!-- Research Interests -->
-Research Interests: *probabilistic generative causal modelling, Bayesian causal inference, causal representation learning, counterfactual reasoning and explanations, probabilistic programming, foundation and generative models, uncertainty-aware decision-making, and human-centred AI systems.*
+**Research Interests:** probabilistic generative causal modelling; Bayesian causal inference; causal representation learning; counterfactual reasoning and explanations; probabilistic programming; foundation and generative models; uncertainty-aware decision-making; human-centred AI systems.
 
 ## Currently Seeking
 <!-- Mission Statement -->
-I am currently seeking senior industry research roles advancing reliable and scalable, human-aligned AI systems through learning and causal reasoning with foundation and generative models, and principled decision-making under uncertainty in large-scale, real-world deployments.
+I am currently seeking Research Scientist, Applied Scientist, and Research Engineer roles in industry (US), focusing on generative AI, causal machine learning, and AI systems that operate reliably under uncertainty in real-world environments.
 
 ## Contact
 <!-- Call to Action -->
-To have a chat about my research or to discuss collaborations, please reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
+To discuss research, collaboration, or opportunities, feel free to reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
 
 ## Work Experience &amp; Education
 <!-- Work Experience -->
 <details>
   <summary style="font-weight: bold; cursor: pointer;">Work Experience</summary>
   <div id="work-experience" markdown="1">
-  Before my DPhil I was working as a Defence Research Scientist in the Aerial Autonomy group of the [Australian Defence Science and Technology Group](https://www.dst.defence.gov.au) (2017-2021), where my research focused on decentralised teams of autonomous aerial and ground robots for missions in challenging uncertain and complex environments, such as the urban terrain. My research was at the exciting intersection of AI/ML, software and hardware engineering to develop autonomous behaviours, integrate them into hardware, and experimentally validate the complete autonomous systems through flight trials in real urban environments across Australia, Singapore, Montreal, and New York City.  
+  Before my DPhil I was working as a Defence Research Scientist in the Aerial Autonomy group of the [Australian Defence Science and Technology Group](https://www.dst.defence.gov.au) (2017-2021), where my research focused on decentralised teams of autonomous aerial and ground robots for missions in challenging uncertain and complex environments, such as the urban terrain. My research was at the intersection of AI/ML, software and hardware engineering to develop autonomous behaviours, integrate them into hardware, and experimentally validate complete systems through flight trials in real urban environments across Australia, Singapore, Montreal, and New York City.  
 
-  My AI/ML and robotics research at DSTG has spanned a wide range of robotics and AI/ML topics, including:
+  My AI/ML and robotics research at DSTG has spanned a wide range of topics, including:
   * [Decentralised task planning in unknown environments with heterogeneous multi-robot systems](https://ieeexplore.ieee.org/abstract/document/9560822)
   * [Robotic swarming methods for scalable and adaptive drone data-ferrying](https://ieeexplore.ieee.org/document/8463151)
   * Adaptive GNSS-SLAM localisation methods for autonomous robot navigation in mixed GNSS-available environments (internal technical report)
@@ -61,7 +61,7 @@ To have a chat about my research or to discuss collaborations, please reach out 
   
   <h3> DPhil (PhD) Engineering Science </h3>
   Oxford Robotics Institute, University of Oxford  
-  *Thesis submitted; defence expected 2026*
+  *Completed, 2026*
 
   **Supervisors:** Prof Lars Kunze and Prof Nick Hawes  
   (Cognitive Robotics Group; Goal-Oriented Long-Lived Systems Group)  
@@ -69,9 +69,9 @@ To have a chat about my research or to discuss collaborations, please reach out 
 
   **Thesis:** *Causal Artificial Intelligence for Robust Robot Reasoning under Uncertainty*
 
-  My doctoral research focuses on uncertainty-aware and probabilistic causal modelling for learning, inference, decision-making, and explanation in complex, partially observable environments. A central theme of my work is learning human-aligned causal representations and developing faithful, counterfactual-based explanations to support understanding and trust by non-technical users.
+  My doctoral research focused on uncertainty-aware and probabilistic causal modelling for learning, inference, decision-making, and explanation in complex, partially observable environments. A central theme of my work was learning human-aligned causal representations and developing faithful, counterfactual-based explanations to support understanding and trust by non-technical users.
 
-  Methodologically, this work combines causal representation learning, Bayesian inference, probabilistic programming, and deep generative models, applied across both interactive virtual environments and real-world, hardware-integrated robotic systems. This research included, and subsequently extended, work completed through two Microsoft Research PhD internships, each forming a core thesis chapter.
+  Methodologically, this work combined causal representation learning, Bayesian inference, probabilistic programming, and deep generative models, applied across both interactive virtual environments and real-world, hardware-integrated robotic systems. This research included, and subsequently extended, work completed through two Microsoft Research internships.
 
   **Selected Coursework:** Oxford Scientific Entrepreneurship Course; Oxford Language Centre Italian Fast-Track Course (Parts 1–2)
   <br>
