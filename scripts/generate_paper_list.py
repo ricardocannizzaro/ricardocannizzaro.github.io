@@ -34,18 +34,61 @@ def print_paper_list(sorted_papers):
         print()
 
 def print_paper_list_markdown(sorted_papers):
-    for idx, paper in enumerate(sorted_papers, start=1):
-        title = paper.get('title', 'No Title')
-        year = paper.get('year', 'No Year')
-        authors = paper.get('author', 'No Authors')
-        conference = paper.get('booktitle', '')
-        journal = paper.get('journal', '')
-        url = paper.get('url', '')
+    for paper in sorted_papers:
+        title = paper.get("title", "No Title")
+        year = paper.get("year", "No Year")
+        authors = paper.get("author", "No Authors")
+        entry_type = paper.get("ENTRYTYPE", "").lower()
 
-        mark_down_str: str = f"* **{title}**<br>{authors}. {conference}{journal} {year}.<br>"
+        url = paper.get("url", "")
+
+        if entry_type == "article":
+            venue = paper.get("journal", "")
+            venue_text = f"*{venue}*" if venue else ""
+            document_label = "Paper"
+
+        elif entry_type == "inproceedings":
+            venue = paper.get("booktitle", "")
+            venue_text = f"*{venue}*" if venue else ""
+            document_label = "Paper"
+
+        elif entry_type == "phdthesis":
+            thesis_type = paper.get("type", "PhD thesis")
+            school = paper.get("school", "")
+
+            # Do not italicise thesis metadata.
+            venue_text = ", ".join(
+                value for value in (thesis_type, school) if value
+            )
+            document_label = "Thesis"
+
+        else:
+            # Fallback for other BibTeX entry types.
+            venue = paper.get("booktitle", "") or paper.get("journal", "")
+            venue_text = f"*{venue}*" if venue else ""
+            document_label = "Paper"
+
+        citation_details = " ".join(
+            value for value in (venue_text, year) if value
+        )
+
+        markdown_str = (
+            f"* **{title}**<br>"
+            f"{authors}. {citation_details}.<br>"
+        )
+
+        links = []
+
         if url:
-            mark_down_str = mark_down_str + f"[[Paper]({url})]"
-        print(mark_down_str)
+            links.append(f"[{document_label}]({url})")
+
+
+        # Preserve the existing visibly bracketed link style:
+        # [[Paper](...)] or [[Thesis](...)]
+        if links:
+            markdown_str += " ".join(f"[{link}]" for link in links)
+
+        print(markdown_str)
         
 def print_paper_list_latex_list(sorted_papers):
     print("\\begin{itemize}")
@@ -64,7 +107,9 @@ def print_paper_list_latex_list(sorted_papers):
     print("\\end{itemize}")
 
 
-def parse_from_args(args):
+def parse_from_args(args: argparse.Namespace):
+    if not isinstance(args, argparse.Namespace):
+        raise ValueError("args must be an instance of argparse.Namespace")
     bib_entries = load_bib_file(args.bib_file_path)
     sorted_papers = sort_by_year(bib_entries)
 

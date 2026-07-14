@@ -33,7 +33,7 @@ I am currently seeking Research Scientist, Applied Scientist, and Research Engin
 
 ## Contact
 <!-- Call to Action -->
-To discuss research, collaboration, or opportunities, feel free to reach out to me at [ricardo@robots.ox.ac.uk](mailto:ricardo@robots.ox.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
+To discuss research, collaboration, or opportunities, feel free to reach out to me at [ricardo.cannizzaro@gmail.com](mailto:ricardo.cannizzaro@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/ricardo-cannizzaro).
 
 ## Work Experience &amp; Education
 <!-- Work Experience -->

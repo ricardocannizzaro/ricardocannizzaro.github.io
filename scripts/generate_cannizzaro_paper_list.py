@@ -6,8 +6,13 @@
 
 """
 
+import argparse
+
 from generate_paper_list import parse_from_args
 
 def main():
-    args = {'bib_file_path': '../files/cannizzaro_citations.bib'}
+    args = argparse.Namespace(bib_file_path='../files/cannizzaro_citations.bib')
     parse_from_args(args)
+
+if __name__ == "__main__":
+    main()

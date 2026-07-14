@@ -1,3 +1,15 @@
+- date: 2026-07-18
+  text: "I’m pleased to share that today I attended my graduation ceremony at the <strong>University of Oxford</strong>, marking the completion of my <strong>DPhil in Engineering Science</strong> and my doctoral research on <em>Causal Artificial Intelligence for Robust Robot Reasoning under Uncertainty</em>. I’m deeply grateful to my supervisors, <strong>Prof Lars Kunze</strong> and <strong>Prof Nick Hawes</strong>, and to the many collaborators and colleagues whose mentorship, support, and friendship made this journey possible."
+
+- date: 2026-06-26
+  text: "I’m thrilled to share that I have joined the core team at an <strong>AI Stealth Startup</strong> as a <strong>Founding Researcher</strong>. I’m excited to be part of the founding team on this new adventure, helping build a frontier AI lab from the ground up, and I can’t wait to see what we create together."
+
+- date: 2026-04-23
+  text: "I was thrilled to attend <strong>ICLR 2026</strong> in Rio de Janeiro, Brazil, where I presented <em>Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds</em> during the poster session. It was a wonderful opportunity to share our work, discuss causal and generative world modelling with researchers from across the community, and reconnect with friends and collaborators."
+
+- date: 2026-03-10
+  text: "I’m delighted to share that I passed my Oxford DPhil viva! My thesis was examined by <strong>Prof Stephen Roberts</strong> as internal examiner and <strong>Prof Karinne Ramirez-Amaro</strong> of Chalmers University of Technology as external examiner. I’m very grateful to them for the thoughtful and engaging discussion."
+
 - date: 2026-01-25
   text: "I’m excited to announce that my collaboration with <strong>Microsoft Research</strong> has resulted in a paper accepted at <strong>ICLR 2026</strong>: <em>Multiverse Mechanica: A Testbed for Learning Game Mechanics via Counterfactual Worlds</em>. The work introduces a causal generative modelling framework for learning and intervening on game mechanics, enabling counterfactually consistent parallel-world generation where only causally relevant factors change. <a href='https://openreview.net/pdf?id=5Q8r8ZubAH'>[Paper]</a>"
 
